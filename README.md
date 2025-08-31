@@ -52,7 +52,7 @@ git clone https://github.com/SamxGuapo/final_proyecto.git
 La conexión está definida en el archivo `conexionSQL.cs`:
 
 ```csharp
-string connectionString = "SERVER=193.203.175.250;PORT=3306;DATABASE=u700978481_basepineda;UID=u700978481_pineda;PWD=Pineda123456*";
+string connectionString = "SERVER=193.203.175.250;PORT=3306;DATABASE=base_basedatos;UID=tu_base_datos:_user;PWD="tu_contraseña"*";
 ```
 
 > 🔒 **Importante:** No incluyas credenciales sensibles en un repositorio público. Se recomienda usar `App.config` o variables de entorno para mayor seguridad.
